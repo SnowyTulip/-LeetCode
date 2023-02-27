@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "stack": "cpp",
+        "xstring": "cpp",
+        "cstdlib": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp"
+    },
+    "commentTranslate.hover.enabled": true
+}
